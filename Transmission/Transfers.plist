@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Active</key>
+		<true/>
+		<key>GroupValue</key>
+		<integer>-1</integer>
+		<key>InternalTorrentPath</key>
+		<string>/Users/vinitlee/Library/Application Support/Transmission/Torrents/Adventure.Time.S06E39.Be.Sweet.HDTV.x264-MEDO.c2da5765e8d5c900.torrent</string>
+		<key>RemoveWhenFinishSeeding</key>
+		<false/>
+		<key>TorrentHash</key>
+		<string>c2da5765e8d5c900e7da067bb9cda64bac4592cb</string>
+		<key>WaitToStart</key>
+		<false/>
+	</dict>
+</array>
+</plist>

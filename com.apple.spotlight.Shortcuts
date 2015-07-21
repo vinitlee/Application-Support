@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sublime Text</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Sublime Text</string>
+		<key>LAST_USED</key>
+		<date>2015-07-12T20:26:00Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Sublime%20Text.app/</string>
+	</dict>
+	<key>al</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Alfred 2</string>
+		<key>LAST_USED</key>
+		<date>2015-07-15T18:55:48Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Alfred%202.app/</string>
+	</dict>
+	<key>alf</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Alfred 2</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:22:41Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Alfred%202.app/</string>
+	</dict>
+	<key>appear</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>General</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:14:41Z</date>
+		<key>URL</key>
+		<string>file:///System/Library/PreferencePanes/Appearance.prefPane/</string>
+	</dict>
+	<key>chr</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Google Chrome</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:18:13Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Google%20Chrome.app/</string>
+	</dict>
+	<key>chrome</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Google Chrome</string>
+		<key>LAST_USED</key>
+		<date>2015-07-11T01:42:44Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Google%20Chrome.app/</string>
+	</dict>
+	<key>kara</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Karabiner</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:24:12Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Karabiner.app/</string>
+	</dict>
+	<key>kee</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Google Keep - notes and lists</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:44:26Z</date>
+		<key>URL</key>
+		<string>file:///Users/vinitlee/Applications/Chrome%20Apps.localized/Default%20hmjkmjkepdijhoojdojkdfohbdgmmhki.app/</string>
+	</dict>
+	<key>keyboard</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Keyboard</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:25:56Z</date>
+		<key>URL</key>
+		<string>file:///System/Library/PreferencePanes/Keyboard.prefPane/</string>
+	</dict>
+	<key>mouse</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Mouse</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:20:30Z</date>
+		<key>URL</key>
+		<string>file:///System/Library/PreferencePanes/Mouse.prefPane/</string>
+	</dict>
+	<key>notification</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Notifications</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T23:22:59Z</date>
+		<key>URL</key>
+		<string>file:///System/Library/PreferencePanes/Notifications.prefPane/</string>
+	</dict>
+	<key>pref</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>System Preferences</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:48:42Z</date>
+		<key>URL</key>
+		<string>file:///Applications/System%20Preferences.app/</string>
+	</dict>
+	<key>se=il</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Tomás Ó Sé: Watching game with Micko made me feel I missed out - Independent.ie</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:26:27Z</date>
+		<key>URL</key>
+		<string>http://www.independent.ie/sport/gaelic-games/gaelic-football/toms-s-watching-game-with-micko-made-me-feel-i-missed-out-31366012.html</string>
+	</dict>
+	<key>seil</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Seil</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:25:47Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Seil.app/</string>
+	</dict>
+	<key>spe</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Spectacle</string>
+		<key>LAST_USED</key>
+		<date>2015-07-11T07:37:16Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Spectacle.app/</string>
+	</dict>
+	<key>sub</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Sublime Text</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:20:51Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Sublime%20Text.app/</string>
+	</dict>
+	<key>term</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Terminal</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:35:44Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Utilities/Terminal.app/</string>
+	</dict>
+	<key>touch</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Touch n Go Beat.caf</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:20:23Z</date>
+		<key>URL</key>
+		<string>file:///Library/Audio/Apple%20Loops/Apple/01%20Hip%20Hop/Touch%20n%20Go%20Beat.caf</string>
+	</dict>
+	<key>universal</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Accessibility</string>
+		<key>LAST_USED</key>
+		<date>2015-07-10T22:17:12Z</date>
+		<key>URL</key>
+		<string>file:///System/Library/PreferencePanes/UniversalAccessPref.prefPane/</string>
+	</dict>
+</dict>
+</plist>

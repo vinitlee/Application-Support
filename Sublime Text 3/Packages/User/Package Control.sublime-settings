@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"ColorSchemeSelector",
+		"ES6-Toolkit",
+		"Hayaku - tools for writing CSS faster",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"LoremIpsum",
+		"Package Control",
+		"Solarized Toggle",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeOnSaveBuild",
+		"SublimeREPL",
+		"Theme - Spacegray"
+	]
+}
